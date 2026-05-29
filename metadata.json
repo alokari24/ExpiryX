@@ -1,0 +1,6 @@
+{
+  "name": "ExpiryX",
+  "description": "A fully functional production-ready subscription alerting and food surplus expiry rescue platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
